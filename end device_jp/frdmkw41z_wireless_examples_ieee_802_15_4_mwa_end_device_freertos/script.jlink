@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "C:\Redes_files\Proyecto_1_redes_fany\frdmkw41z_wireless_examples_ieee_802_15_4_mwa_end_device_freertos\Debug\frdmkw41z_wireless_examples_ieee_802_15_4_mwa_end_device_freertos.hex"
+qc
+
+qc
